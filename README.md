@@ -7,7 +7,7 @@ I like long walks on the beach and writing software.
 - Disciple of the boring code movement
 - Video game nerd
 
-I believe in the philosophy of servant leadership and try to break down barriers. I value simplicity and maintainability over raw performance. I favour being part of a product for its whole lifecycle and building lasting relationships over maximizing profit.
+I believe in the philosophy of servant leadership and try to break down barriers. I value simplicity and maintainability over efficiency. I favour being part of a product for its whole lifecycle and building lasting relationships over maximizing profit.
 
 If I had more time, I would...
 
