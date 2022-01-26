@@ -11,7 +11,7 @@ I believe in the philosophy of servant leadership and try to break down barriers
 
 If I had more time, I would...
 
-- learn the guitar to play for my son
+- learn the guitar to play for my sons
 - start a blog
 - write a book about building software that is "good enough"
 - more actively support open source by contributing to software I or the company I work for relies on
